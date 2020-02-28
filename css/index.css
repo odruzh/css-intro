@@ -1,0 +1,20 @@
+h1 {
+    color:: red;
+}
+
+p {
+    color:aqua;
+}
+
+#chosen {
+
+    border: 1px solid brown
+}
+
+p::first-letter {
+    font-size: 2rem;
+}
+
+.foo {
+    
+}
